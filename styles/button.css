@@ -1,0 +1,72 @@
+.button {
+  font-size: var(--font-size-sm);
+  line-height: var(--line-height-sm);
+  font-weight: 400;
+  border-radius: var(--border-radius-md);
+  border: none;
+  padding: 0 1rem;
+  height: 2.125rem;
+  cursor: pointer;
+  transition: background-color var(--duration-sm) ease-out;
+}
+
+.button--secondary {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-300);
+  color: var(--color-text-dark);
+}
+
+.button--secondary:hover {
+  background-color: var(--color-gray-100);
+}
+
+.button--primary {
+  background-color: var(--color-blue-600);
+  color: var(--color-text-light);
+}
+
+.button--primary:hover {
+  background-color: var(--color-blue-500);
+}
+
+.button--danger {
+  background-color: var(--color-red-600);
+  color: var(--color-text-light);
+}
+
+.button--danger:hover {
+  background-color: var(--color-red-500);
+}
+
+.button--lg {
+  font-weight: 500;
+  height: 2.5rem;
+}
+
+.button--sm {
+  font-size: var(--font-size-xs);
+  line-height: var(--line-height-xs);
+  height: 1.75rem;
+  padding: 0 0.5rem;
+}
+
+.button--icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.125rem;
+  padding: 0;
+  border: none;
+}
+
+.button--icon.button--sm {
+  width: 1.75rem;
+}
+
+.button__icon {
+  width: 1rem;
+}
+
+.button--sm .button__icon {
+  width: 0.75rem;
+}

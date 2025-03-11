@@ -1,0 +1,35 @@
+.select {
+  position: relative;
+  color: var(--color-text-dark);
+}
+
+.select--fill {
+  width: 100%;
+}
+
+.select__select {
+  font-size: var(--font-size-sm);
+  line-height: var(--line-height-sm);
+  font-weight: 400;
+  color: var(--color-text-dark);
+  background-color: transparent;
+  border-radius: var(--border-radius-md);
+  border: 1px solid var(--color-gray-300);
+  padding: 0 2rem 0 0.75rem;
+  height: 2.125rem;
+  cursor: pointer;
+  appearance: none;
+}
+
+.select--fill .select__select {
+  width: 100%;
+}
+
+.select__icon {
+  position: absolute;
+  top: 50%;
+  right: 0.5rem;
+  transform: translateY(-50%);
+  width: 1.125rem;
+  pointer-events: none;
+}

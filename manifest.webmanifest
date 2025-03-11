@@ -1,0 +1,13 @@
+{
+  "categories": [
+    "education",
+    "productivity",
+    "utilities"
+  ],
+  "description": "Choma Calendar is a fully responsive calendar app built with HTML, CSS, and JavaScript. Create, manage, and view events in real-time, all built from scratch without libraries or frameworks.",
+  "display": "fullscreen",
+  "name": "Choma Calendar",
+  "orientation": "portrait",
+  "start_url": "https://choma-calendar.mateuszziomekit.com",
+  "theme_color": "#2563eb"
+}
