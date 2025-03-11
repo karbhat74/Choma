@@ -3,7 +3,7 @@
 Hey there! In this video, we’ll create a fully responsive calendar app using just HTML, CSS, and JavaScript. Follow along to learn how to build an interactive calendar with features like event creation, real-time updates, and more. No frameworks or libraries—everything will be built from scratch!
 
 - [🚀 Live Website]()
-- [💻 Source Code]()
+- [💻 Source Code](https://github.com/karbhat74/Choma)
 
 Useful links:
 
