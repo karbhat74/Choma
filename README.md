@@ -4,9 +4,8 @@ Hey there! In this video, we’ll create a fully responsive calendar app using j
 
 [![Choma Calendar Thumbnail]()]()
 
-- [🍿 YouTube Video](https://www.youtube.com/watch?v=PXOsddcWL4g)
-- [🚀 Live Website](https://choma-calendar.mateuszziomekit.com/)
-- [💻 Source Code](https://github.com/mateuszziomekit/choma-calendar)
+- [🚀 Live Website]()
+- [💻 Source Code]()
 
 Useful links:
 
